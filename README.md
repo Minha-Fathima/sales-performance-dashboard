@@ -20,7 +20,6 @@ The dataset used was a sample sales dataset from Kaggle (link to dataset: https:
 - **Converted `Order Date`** to date format and extracted `Month`, `Year`, and `Month-Year`
 - **Recalculated `Sales`** column as `Quantity Ordered × Price Each` due to inconsistencies
 - **Handled missing values**:
-  - Filled blanks in `Second Taste` and `Third Taste` with placeholders
   - Cleaned whitespace and formatting in `Country`, `State`, and `Address` fields
 - **Created calculated columns**:
   - `Calculated Sales`

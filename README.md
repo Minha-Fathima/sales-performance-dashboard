@@ -32,24 +32,24 @@ The dataset used was a sample sales dataset from Kaggle (link to dataset: https:
 
 The dashboard includes the following key elements:
 
-### ✅ KPI Summary Cards
+### KPI Summary Cards
 - **Total Sales** – Overall revenue across all orders
 - **Total Orders** – Count of unique orders placed
 - **Total Quantity** – Total items sold
 
-### ✅ Product Performance
+### Product Performance
 - Bar chart showing sales by product line
 - Clearly highlights top-performing categories like *Classic Cars* and *Vintage Cars*
 
-### ✅ Geographic Sales Distribution
+### Geographic Sales Distribution
 - Interactive map displaying sales across countries
 - Slicer included for filtering by country
 
-### ✅ Sales Over Time
+### Sales Over Time
 - Area chart with a 3-month rolling average
 - Smooths fluctuations to show long-term sales trends
 
-### ✅ Customer Segmentation by Deal Size
+### Customer Segmentation by Deal Size
 - Donut chart showing revenue contribution by deal size (Small, Medium, Large)
 
 ---
@@ -60,12 +60,6 @@ The dashboard includes the following key elements:
 - **Medium-sized deals** dominated overall sales, contributing over 60% of total revenue.
 - **Sales peaked** in late 2003 and early 2004, with noticeable seasonality patterns.
 - The company’s strongest regions by revenue included **North America and Europe**.
-
----
-
-## 📌 Conclusion
-
-This project demonstrates how Power BI can be used to transform raw data into clear, actionable insights. By combining KPI tracking, trend analysis, and geographic/product segmentation, this dashboard serves as a powerful tool for business stakeholders to explore sales data interactively.
 
 ---
 
